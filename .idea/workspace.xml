@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c28eddb-a986-4ba8-a788-3c39e3803656" name="Changes" comment="Lambda update" />
+    <list default="true" id="3c28eddb-a986-4ba8-a788-3c39e3803656" name="Changes" comment="Lambda update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/Lambda/CalculoTeste2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lambda/Lambda/CalculoTeste2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/Calculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda/Calculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/CalculoTeste2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda/CalculoTeste2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
