@@ -81,7 +81,7 @@
       <module name="Lambda" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lambda.*" />
+          <option name="PATTERN" value="Lambda.ForEach.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,7 +94,7 @@
       <module name="Lambda" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lambda.*" />
+          <option name="PATTERN" value="Lambda.ForEach.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +103,11 @@
       </method>
     </configuration>
     <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda.ForEach" />
+      <option name="MAIN_CLASS_NAME" value="Lambda.ForEach.ForEach" />
       <module name="Lambda" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lambda.*" />
+          <option name="PATTERN" value="Lambda.ForEach.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

@@ -1,4 +1,4 @@
-package Lambda;
+package Lambda.ForEach;
 
 import java.util.Arrays;
 import java.util.List;
