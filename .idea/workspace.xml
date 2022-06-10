@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c28eddb-a986-4ba8-a788-3c39e3803656" name="Changes" comment="Lambda update">
-      <change afterPath="$PROJECT_DIR$/src/Lambda/ForEach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda/Lambda/Calculo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lambda/Lambda/Calculo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda/Lambda/CalculoTeste2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lambda/Lambda/CalculoTeste2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lambda/CalculoTeste2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda/CalculoTeste2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/Lambda/ForEach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lambda/Lambda/ForEach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda/ForEach.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +73,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="RunManager" selected="Application.ForEach">
     <configuration name="CaculoTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
