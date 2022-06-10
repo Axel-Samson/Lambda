@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c28eddb-a986-4ba8-a788-3c39e3803656" name="Changes" comment="Lambda update">
+      <change afterPath="$PROJECT_DIR$/src/Lambda/ForEach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/Lambda/Calculo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lambda/Lambda/Calculo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lambda/Lambda/CalculoTeste2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lambda/Lambda/CalculoTeste2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lambda/Calculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda/Calculo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lambda/CalculoTeste2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda/CalculoTeste2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,12 +71,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.CalculoTeste2">
+  <component name="RunManager" selected="Application.ForEach">
     <configuration name="CaculoTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lambda.CaculoTeste1" />
       <module name="Lambda" />
@@ -103,8 +104,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.ForEach" />
+      <module name="Lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForEach" />
         <item itemvalue="Application.CalculoTeste2" />
         <item itemvalue="Application.CaculoTeste1" />
       </list>
@@ -175,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652991641087</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lambda update">
+      <created>1653003905713</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653003905713</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
